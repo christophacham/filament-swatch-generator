@@ -1,0 +1,13 @@
+# Output folder (generated STLs)
+output/
+
+# Blender backup files
+*.blend1
+*.blend2
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
