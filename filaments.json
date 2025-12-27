@@ -1,0 +1,11 @@
+{
+  "profiles": [
+    {
+      "manufacturer": "Bambu Lab",
+      "material": "PLA Basic",
+      "temp_nozzle": "220",
+      "temp_bed": "60",
+      "colours": ["White", "Black"]
+    }
+  ]
+}
