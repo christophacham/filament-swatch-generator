@@ -88,7 +88,7 @@ The script modifies these text objects in Blender:
 | `TextColour` | Filament colour |
 | `TextManufacturer` | Brand name |
 | `TextMaterial` | Material type |
-| `TempNozzle` | Nozzle temp (adds ° automatically) |
+| `TempHotend` | Nozzle temp (adds ° automatically) |
 | `TempBuildplate` | Bed temp (adds ° automatically) |
 
 ## Troubleshooting

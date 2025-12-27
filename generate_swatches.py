@@ -16,7 +16,7 @@ FIELD_MAP = {
     "colour": "TextColour",
     "manufacturer": "TextManufacturer",
     "material": "TextMaterial",
-    "temp_nozzle": "TempNozzle",
+    "temp_nozzle": "TempHotend",
     "temp_bed": "TempBuildplate",
 }
 
